@@ -9,7 +9,8 @@
         android:roundIcon="@drawable/ic_blaze_icon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".view.welcome.WelcomeActivity"></activity>
+        <activity android:name=".view.authentication.AuthActivity"></activity>
+        <activity android:name=".view.welcome.WelcomeActivity" />
         <activity
             android:name=".view.splash.SplashActivity"
             android:screenOrientation="portrait"
