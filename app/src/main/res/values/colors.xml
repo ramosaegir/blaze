@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <!-- Purple Colors -->
+    <color name="purple_1">#AA00FF</color>
+    <color name="purple_2">#BB33FF</color>
     <color name="pale_blue">#D7E6F0</color>
-    <color name="vivid_blue">#0091EA</color>
-    <color name="vivid_purple">#AA00FF</color>
+
+    <!-- Blue Colors -->
+    <color name="blue_1">#0091EA</color>
+    <color name="pale_purple">#B19CD9</color>
+
+    <!-- Gray Colors -->
     <color name="light_gray">#D3D3D3</color>
+
 </resources>

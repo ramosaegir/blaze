@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Blaze!</string>
     <string name="blaze_logo">Blaze Logo</string>
+    <string name="lets_go">Vamos lá!</string>
 </resources>

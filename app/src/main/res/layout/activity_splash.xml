@@ -10,7 +10,7 @@
         android:id="@+id/blaze_logo"
         android:layout_width="@dimen/splash_icon_dimen"
         android:layout_height="@dimen/splash_icon_dimen"
-        android:src="@drawable/ic_blaze_icon"
+        android:src="@drawable/ic_blaze"
         android:contentDescription="@string/blaze_logo"
         android:alpha="0.05"
         app:layout_constraintBottom_toBottomOf="parent"
