@@ -89,4 +89,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
     implementation project(path: ':business')
     implementation project(path: ':infrastructure')
+    implementation project(path: ':di')
 }

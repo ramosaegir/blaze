@@ -1,2 +1,2 @@
-include ':app', ':business', ':provider', ':model', ':infrastructure', ':data'
+include ':app', ':business', ':provider', ':model', ':infrastructure', ':data', ':di'
 rootProject.name='Blaze!'
