@@ -2,4 +2,12 @@
     <string name="app_name">Blaze!</string>
     <string name="blaze_logo">Blaze Logo</string>
     <string name="lets_go">Vamos lá!</string>
+    <string name="welcome_title_pay_less">Pague Menos!</string>
+    <string name="welcome_title_near_establishments">Estabelecimentos Próximos</string>
+    <string name="welcome_title_useful_infos">Informações Úteis</string>
+    <string name="welcome_title_favorite_offers">Ofertas Favoritas</string>
+    <string name="welcome_desc_pay_less">Saiba das melhores ofertas, assuma o controle do seu dinheiro e economize em suas compras.</string>
+    <string name="welcome_desc_near_establishments">Não importa por onde esteja, mostraremos a ti ofertas dos estabelecimentos mais próximos.</string>
+    <string name="welcome_desc_useful_infos">Informe-se acerca da localização, dos horários de funcionamento e do contato do estabelecimento</string>
+    <string name="welcome_desc_favorite_offers">Não perca as melhores ofertas de vista, salve elas para acessar quando quiser!</string>
 </resources>

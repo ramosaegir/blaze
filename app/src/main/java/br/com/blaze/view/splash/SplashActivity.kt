@@ -26,7 +26,7 @@ class SplashActivity : AppCompatActivity() {
         blaze_title.animate().alpha(1F).setDuration(500)
     }
 
-    fun setSplashHandler(){
+    private fun setSplashHandler(){
         Handler().postDelayed({
 
             startActivity(WelcomeActivity.newInstance(this))
@@ -34,5 +34,4 @@ class SplashActivity : AppCompatActivity() {
             finish()
         },3000)
     }
-
 }
