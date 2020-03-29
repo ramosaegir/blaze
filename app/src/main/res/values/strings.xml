@@ -10,4 +10,6 @@
     <string name="welcome_desc_near_establishments">Não importa por onde esteja, mostraremos a ti ofertas dos estabelecimentos mais próximos.</string>
     <string name="welcome_desc_useful_infos">Informe-se acerca da localização, dos horários de funcionamento e do contato do estabelecimento</string>
     <string name="welcome_desc_favorite_offers">Não perca as melhores ofertas de vista, salve elas para acessar quando quiser!</string>
+    <string name="welcome">Seja bem-vindo(a)!</string>
+    <string name="welcome_choose_access">Vamos iniciar nosso acesso à plataforma. A princípio, é sua primeira vez por aqui?</string>
 </resources>

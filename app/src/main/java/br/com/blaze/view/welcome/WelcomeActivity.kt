@@ -7,6 +7,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.view.View
 import br.com.blaze.R
+import br.com.blaze.view.authentication.AuthActivity
 import kotlinx.android.synthetic.main.activity_welcome.*
 
 class WelcomeActivity : AppCompatActivity() {
@@ -22,6 +23,14 @@ class WelcomeActivity : AppCompatActivity() {
         labelList.map { view ->
             setAlphaHandler(delay, view)
             delay += DELAY_MILISECONDS
+        }
+    }
+
+    override fun onStart() {
+        super.onStart()
+
+        proceedButton.setOnClickListener {
+            startActivity(AuthActivity.newInstance(this))
         }
     }
 
