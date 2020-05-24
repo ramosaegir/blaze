@@ -40,6 +40,9 @@ captures/
 .idea/workspace.xml
 .idea/libraries
 
+# Cache
+.idea/caches/
+
 # Keystore files
 *.jks
 
