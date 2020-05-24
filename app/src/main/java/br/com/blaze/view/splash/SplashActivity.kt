@@ -21,16 +21,15 @@ class SplashActivity : AppCompatActivity() {
         setSplashHandler()
     }
 
-    fun animateSplash(){
-        blaze_logo.animate().alpha(1F).translationY(-70F).setDuration(500)
-        blaze_title.animate().alpha(1F).setDuration(500)
+    private fun animateSplash(){
+        blaze_logo.animate().alpha(1F).translationY(-70F).duration = 500
+        blaze_title.animate().alpha(1F).duration = 500
     }
 
     private fun setSplashHandler(){
         Handler().postDelayed({
 
             startActivity(WelcomeActivity.newInstance(this))
-            //finish this activity
             finish()
         },3000)
     }

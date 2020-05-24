@@ -12,4 +12,22 @@
     <string name="welcome_desc_favorite_offers">Não perca as melhores ofertas de vista, salve elas para acessar quando quiser!</string>
     <string name="welcome">Seja bem-vindo(a)!</string>
     <string name="welcome_choose_access">Vamos iniciar nosso acesso à plataforma. A princípio, é sua primeira vez por aqui?</string>
+    <string name="yes_im_new">Sim, sou novo por aqui!</string>
+    <string name="no_im_already_a_user">Não, já sou usuário da plataforma!</string>
+    <string name="proceed">Prosseguir</string>
+    <string name="auth_welcome_message">Seja bem-vindo(a) à plataforma!</string>
+    <string name="auth_login_btn">ACESSE</string>
+    <string name="auth_signup_btn">REGISTRE-SE</string>
+    <string-array name="auth_slider_titles">
+        <item>Ofertas e Promoções</item>
+        <item>Estabelecimentos</item>
+        <item>Informações Úteis</item>
+        <item>Comodidade e Eficiência</item>
+    </string-array>
+    <string-array name="auth_slider_subtitles">
+        <item>Não perca os melhores preços postados pelos estabelecimentos participantes</item>
+        <item>Tenha acesso às ofertas de mercados, drogarias, hortifrutis, dentre outros comércios</item>
+        <item>Saiba da localização, dos horários de funcionamento e outros dados dos estabelecimentos participantes</item>
+        <item>Nossa finalidade é trazer a experiência de consulta dos melhores preços sem sair de casa</item>
+    </string-array>
 </resources>
